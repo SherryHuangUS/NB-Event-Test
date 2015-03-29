@@ -11,7 +11,9 @@ To run test:
 
 It will run both unit tests and intergration tests.
 
-## Main documents
+## Main Documents
 - Domain class: grails-app/domain/nbtest
 - Controller: grails-app/controllers/nbtest/EventController
+- GSP: grails-app/views/event
+- Test: test/unit/nbtest
 
