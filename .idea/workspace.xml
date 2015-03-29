@@ -374,10 +374,9 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/whitespace.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/with.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/with.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/event/_form.gsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/nbtest/EventController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/nbtest/EventController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/nbtest/EventControllerSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/nbtest/EventControllerSpec.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/web.xml.tmp" afterPath="$PROJECT_DIR$/target/work/web.xml.tmp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NBTest.iws" />
@@ -401,7 +400,7 @@
     <favorites_list name="NBTest" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.39666668">
+    <splitter split-orientation="horizontal" split-proportion="0.5692531">
       <split-first>
         <leaf>
           <file leaf-file-name="User.groovy" pinned="false" current="false" current-in-tab="false">
@@ -414,11 +413,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="EventController.groovy" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="EventController.groovy" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/grails-app/controllers/nbtest/EventController.groovy">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.32125205" vertical-offset="90" max-vertical-offset="2070">
-                  <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.18478261" vertical-offset="1199" max-vertical-offset="2760">
+                  <caret line="89" column="27" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="27" />
                   <folding>
                     <element signature="e#16#47#0" expanded="true" />
                   </folding>
@@ -470,10 +469,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="EventControllerSpec.groovy" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="EventControllerSpec.groovy" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/test/unit/nbtest/EventControllerSpec.groovy">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="1.0" vertical-offset="68" max-vertical-offset="825">
+                <state vertical-scroll-proportion="-29.347826" vertical-offset="0" max-vertical-offset="825">
                   <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
                   <folding>
                     <element signature="e#16#45#0" expanded="true" />
@@ -495,8 +494,8 @@
           <file leaf-file-name="BootStrap.groovy" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
-                  <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="810">
+                  <caret line="41" column="61" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="61" />
                   <folding>
                     <element signature="e#0#23#0" expanded="true" />
                   </folding>
@@ -504,10 +503,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="DataSource.groovy" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="DataSource.groovy" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
+                <state vertical-scroll-proportion="0.4076087" vertical-offset="165" max-vertical-offset="930">
                   <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
                   <folding />
                 </state>
@@ -543,17 +542,17 @@
         <option value="$PROJECT_DIR$/grails-app/views/NBEvent/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/event/index.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
         <option value="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/event/create.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/nbtest/EventController.groovy" />
         <option value="$PROJECT_DIR$/test/unit/nbtest/EventControllerSpec.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/nbtest/EventController.groovy" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1509" />
+    <option name="width" value="1666" />
     <option name="height" value="1126" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -930,7 +929,7 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1509" height="1126" extended-state="6" />
+    <frame x="0" y="22" width="1666" height="1126" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -952,8 +951,8 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16700749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31150794" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15086207" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20634921" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -978,7 +977,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="NB" />
-    <option name="LAST_COMMIT_MESSAGE" value="NB" />
+    <MESSAGE value="Added unit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added unit test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1097,14 +1097,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/groovy/nbtest/EventType.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/assets/images/skin/database_save.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1126,24 +1118,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
-          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/nbtest/User.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.521739" vertical-offset="0" max-vertical-offset="300">
@@ -1153,16 +1127,6 @@
       </provider>
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/nbtest/EventController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32125205" vertical-offset="90" max-vertical-offset="2070">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#16#47#0" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/event/create.gsp">
@@ -1183,10 +1147,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/unit/nbtest/EventControllerSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0" vertical-offset="68" max-vertical-offset="825">
+        <state vertical-scroll-proportion="-29.347826" vertical-offset="0" max-vertical-offset="825">
           <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
           <folding>
             <element signature="e#16#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="810">
+          <caret line="41" column="61" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4076087" vertical-offset="165" max-vertical-offset="930">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/groovy/nbtest/EventType.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/nbtest/EventController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18478261" vertical-offset="1199" max-vertical-offset="2760">
+          <caret line="89" column="27" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="27" />
+          <folding>
+            <element signature="e#16#47#0" expanded="true" />
           </folding>
         </state>
       </provider>

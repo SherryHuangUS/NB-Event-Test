@@ -4,6 +4,7 @@ import groovy.time.TimeCategory
 import org.codehaus.groovy.grails.web.json.JSONArray
 import org.codehaus.groovy.grails.web.json.JSONObject
 
+import java.text.ParseException
 import java.text.SimpleDateFormat
 
 class EventController {
@@ -20,9 +21,7 @@ class EventController {
 
     def event() {
         println "event params -> " + params
-
-        // Assume POST body has correct date and enum format
-        if (params.date && params.user && params.type) {
+        if (checkDateFormat(params.date) && checkUser(params.user) && checkEventType(params.type)) {
             Event event = new Event()
             event.date = sdf.parse(params.date)
             event.user = User.findByUserName(params.user)
@@ -40,21 +39,16 @@ class EventController {
             } else {
                 render(status: 200, contentType: "application/json", text: '{"status": "ok"}')
             }
-        } else {
-            render (status: 400, text: "Bad Request: Params are not complete. Please check the url.")
         }
     }
 
     def getEvents() {
-        // Assume all params in request have correct date format
-        if (params.from && params.to) {
+        if (checkDateFormat(params.from) && checkDateFormat(params.to)) {
             Date from = sdf.parse(params.from)
             Date to = sdf.parse(params.to)
             List<Event> events = Event.findAllByDateBetween(from, to)
             println Event.list().date
             respond formatEvents(events), [formats:["json"]]
-        } else {
-            render (status: 400, text: "Bad Request: Params are not complete. Please check the url.")
         }
     }
 
@@ -73,14 +67,11 @@ class EventController {
     }
 
     def getSummary() {
-        // Assume all params in request have correct date and time frame format
-        if (params.from && params.to && params.by) {
+        if (checkDateFormat(params.from) && checkDateFormat(params.to) && checkTimeFrame(params.by)) {
             Date from = sdf.parse(params.from)
             Date to = sdf.parse(params.to)
             String timeFrame = params.by
             respond generateSummary(from, to, timeFrame), [formats:["json"]]
-        } else {
-            render (status: 400, text: "Bad Request: Params are not complete. Please check the url.")
         }
     }
 
@@ -128,5 +119,60 @@ class EventController {
         }
 
     }
+
+    def checkDateFormat(String dateString) {
+        if (dateString) {
+            try {
+                sdf.parse(dateString)
+            } catch (ParseException e) {
+                render (status: 400, text: "Date format is not supported. Please use \"yyyy-MM-dd'T'hh:mm:ss'Z'\".")
+                return false
+            }
+        } else {
+            render (status: 400, text: "Bad Request: Params are not complete. Please offer a date.")
+            return false
+        }
+        return true
+    }
+
+    def checkUser(String userName) {
+        if (userName) {
+            if (!User.findByUserName(userName)) {
+                render (status: 400, text: "User is not exist. Please try \"Sherry\" or \"Kevin\".")
+                return false
+            }
+        } else {
+            render (status: 400, text: "Bad Request: Params are not complete. Please offer a user name.")
+            return false
+        }
+        return true
+    }
+
+    def checkEventType(String eventType) {
+        if (eventType) {
+            if (!EventType.values().val.contains(params.type)) {
+                render(status: 400, text: "Event type is not supported. Please try \"enter\", \"leave\", \"comment\" or \"highfive\".")
+                return false
+            }
+        } else {
+            render (status: 400, text: "Bad Request: Params are not complete. Please offer a event type.")
+            return false
+        }
+        return true
+    }
+
+    def checkTimeFrame(String timeFrame) {
+        if (timeFrame) {
+            if (!["minute", "hour", "day"].contains(params.by)) {
+                render (status: 400, text: "Time frame is not supported. Please try \"minute\", \"hour\" or \"day\".")
+                return false
+            }
+        } else {
+            render (status: 400, text: "Bad Request: Params are not complete. Please offer a time frame.")
+            return false
+        }
+        return true
+    }
+
 
 }
