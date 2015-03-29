@@ -1,4 +1,4 @@
-# NBEventTest
+# NB Event Test
 If you install Grails, you can run this program with:
 
 `grails -Dserver.port=8090 -Duser.timezone=UTC run-app`
