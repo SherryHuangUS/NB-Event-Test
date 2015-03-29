@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="197f6742-c9d2-4829-a1cd-9659bc8d2f84" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/apple-touch-icon-retina.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/database_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/database_delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/database_edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/database_save.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/database_table.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/exclamation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/favicon.ico" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.54/grails-plugin-tomcat-7.0.54.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wrapper/grails-wrapper-runtime-2.4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/grails_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/house.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/information.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prodDb.h2.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/shadow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/sorted_asc.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/skin/sorted_desc.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wrapper/springloaded-1.2.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/images/springsource.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/1e21.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/1e21.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/asset/pipeline/AbstractAssetFile.groovy" />
@@ -52,8 +29,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/AuthorListWriter.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/AuthorWriter.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.7/src/java/grails/plugin/cache/BlockingCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.7/src/java/grails/plugin/cache/CacheBeanPostProcessor.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.7/src/java/grails/plugin/cache/CacheConfigArtefactHandler.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.7/src/java/grails/plugin/cache/CacheConfiguration.java" />
@@ -72,7 +47,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/ChangelogXml2Groovy.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.7/src/java/grails/plugin/cache/util/ClassUtils.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/ColumnWriter.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.7/src/groovy/grails/plugin/cache/ConfigBuilder.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.7/src/groovy/grails/plugin/cache/ConfigLoader.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.7/src/java/grails/plugin/cache/web/ContentCacheParameters.java" />
@@ -84,7 +58,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/asset/pipeline/processors/CssMinifyPostProcessor.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/asset/pipeline/processors/CssProcessor.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.7/src/java/grails/plugin/cache/CustomCacheKeyGenerator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/DatabaseMigrationGrailsPlugin.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/grails-app/controllers/grails/plugin/databasemigration/DbdocController.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/grails-app/conf/DbdocUrlMappings.groovy" />
@@ -126,11 +99,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/asset/pipeline/DirectiveProcessor.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.1.2/src/java/org/codehaus/groovy/grails/scaffolding/DomainClassPropertyComparator.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/DslBuilder.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/nbtest/Event.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/nbtest/EventController.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/nbtest/EventControllerSpec.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/nbtest/EventSpec.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/groovy/nbtest/EventType.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.7/src/java/grails/plugin/cache/web/filter/ExpressionEvaluator.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/webxml-1.4.1/src/groovy/grails/plugin/webxml/FilterManager.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.54/src/groovy/org/grails/plugins/tomcat/fork/ForkedTomcatServer.groovy" />
@@ -194,8 +162,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/MigrationUtils.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/MySQLCompatibleChangeLogSerializer.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/MysqlAwareCreateTableGenerator.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NBTest-grailsPlugins.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NBTest.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.7/src/java/grails/plugin/cache/web/filter/NoOpFilter.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/NoopVisitor.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.7/src/java/grails/plugin/cache/web/filter/PageFragmentCachingFilter.java" />
@@ -235,9 +201,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.54/src/groovy/org/grails/plugins/tomcat/TomcatServerFactory.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.54/src/groovy/org/grails/plugins/tomcat/fork/TomcatWarRunner.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/asset/pipeline/processors/UglifyJsProcessor.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/nbtest/User.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/nbtest/UserSpec.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.7/src/java/grails/plugin/cache/web/filter/WebKeyGenerator.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/webxml-1.4.1/WebxmlGrailsPlugin.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/scripts/_AssetCompile.groovy" />
@@ -251,15 +214,11 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/scripts/_Install.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/scripts/_Install.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/webxml-1.4.1/src/samples/_WebXmlConfig.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/event/_form.gsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/_form.gsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/grails-app/views/dbdoc/_globalnav.gsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/grails-app/views/dbdoc/_index.gsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/grails-app/views/dbdoc/_overview-summary.gsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/grails-app/views/dbdoc/_stylesheet.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/stylesheets/application.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application.properties" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/application.properties" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.7/application.properties" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/application.properties" />
@@ -268,7 +227,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.1.2/application.properties" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.54/application.properties" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/webxml-1.4.1/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/applicationContext.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/array1.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/array1.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/array2.js" />
@@ -281,16 +239,13 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/assignment.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/assignment.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/beautify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/c.tld" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/resources/changelog.template" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/concatstring.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/concatstring.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/docs/guide/configuration.gdoc" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/lib/consolidator.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/const.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/const.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/event/create.gsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/create.gsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/dependencies.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/webxml-1.4.1/dependencies.groovy" />
@@ -302,17 +257,9 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/empty-blocks.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/empty-blocks.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/docs/guide/usage/encoding.gdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/error.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/stylesheets/errors.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/docs/guide/extending.gdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/fmt.tld" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/forstatement.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/forstatement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wrapper/grails-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/grails.tld" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grailsw.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grailsw" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/hibernate4-4.3.5.4/src/java/hibernate.cfg.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/tmp/hoist.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/if-not.js" />
@@ -323,8 +270,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/ifreturn.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/ifreturn2.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/ifreturn2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/index.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/event/index.gsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/index.gsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/infinite.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/infinite.js" />
@@ -391,30 +336,8 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/web-app/js/jquery/jquery-1.11.1.min.map" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/jquery-1.11.1/grails-app/assets/javascripts/jquery.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/docs/guide/usage/linking.gdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/stylesheets/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/mangle.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/mangle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_cs_CZ.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_da.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_de.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_es.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_fr.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_it.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_ja.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_nb.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_nl.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_pl.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_pt_BR.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_pt_PT.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_ru.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_sv.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_th.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/i18n/messages_zh_CN.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/assets/stylesheets/mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/null_string.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/null_string.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/docs/guide/usage/organization.gdoc" />
@@ -431,19 +354,11 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/docs/guide/extending/postprocessors.gdoc" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/lib/process.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/docs/guide/extending/processors.gdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prodDb.lock.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prodDb.trace.db" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/r.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/renderEditor.template" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/conf/spring/resources.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/scripts.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/show.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/sitemesh.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/spring-form.tld" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/WEB-INF/tld/spring.tld" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/lib/squeeze-more.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/strict-equals.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/strict-equals.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/tmp/test.js" />
@@ -455,13 +370,15 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/docs/guide/usage.gdoc" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/var.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/var.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/web.xml.tmp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/whitespace.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/whitespace.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/with.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/with.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/event/_form.gsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/nbtest/EventController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/nbtest/EventController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/nbtest/EventControllerSpec.groovy" afterPath="$PROJECT_DIR$/test/unit/nbtest/EventControllerSpec.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/web.xml.tmp" afterPath="$PROJECT_DIR$/target/work/web.xml.tmp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NBTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -500,8 +417,8 @@
           <file leaf-file-name="EventController.groovy" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/grails-app/controllers/nbtest/EventController.groovy">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.7646177" vertical-offset="0" max-vertical-offset="2070">
-                  <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.32125205" vertical-offset="90" max-vertical-offset="2070">
+                  <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
                   <folding>
                     <element signature="e#16#47#0" expanded="true" />
                   </folding>
@@ -536,19 +453,31 @@
           <file leaf-file-name="index.gsp" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/grails-app/views/event/index.gsp">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-5.893617" vertical-offset="458" max-vertical-offset="990">
+                <state vertical-scroll-proportion="-7.255319" vertical-offset="394" max-vertical-offset="990">
                   <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="create.gsp" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="create.gsp" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/grails-app/views/event/create.gsp">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.15463917" vertical-offset="0" max-vertical-offset="750">
+                <state vertical-scroll-proportion="-2.2340426" vertical-offset="0" max-vertical-offset="750">
                   <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="EventControllerSpec.groovy" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/test/unit/nbtest/EventControllerSpec.groovy">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="1.0" vertical-offset="68" max-vertical-offset="825">
+                  <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+                  <folding>
+                    <element signature="e#16#45#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -567,7 +496,7 @@
             <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
-                  <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+                  <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
                   <folding>
                     <element signature="e#0#23#0" expanded="true" />
                   </folding>
@@ -614,10 +543,11 @@
         <option value="$PROJECT_DIR$/grails-app/views/NBEvent/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/event/index.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/nbtest/EventController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
         <option value="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/event/create.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/nbtest/EventController.groovy" />
+        <option value="$PROJECT_DIR$/test/unit/nbtest/EventControllerSpec.groovy" />
       </list>
     </option>
   </component>
@@ -863,6 +793,28 @@
     </key>
   </component>
   <component name="RunManager" selected="Grails.Grails:NBTest">
+    <configuration default="false" name="EventControllerSpec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NBTest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="nbtest" />
+      <option name="MAIN_CLASS_NAME" value="nbtest.EventControllerSpec" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <module name="" />
       <setting name="vmparams" value="" />
@@ -939,7 +891,7 @@
     <configuration default="false" name="Grails:NBTest" type="GrailsRunConfigurationType" factoryName="Grails">
       <module name="NBTest" />
       <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="-Dserver.port=8090 -Duser.timezone=UTC prod run-app" />
+      <setting name="cmdLine" value="-Dserver.port=8090 -Duser.timezone=UTC run-app" />
       <setting name="depsClasspath" value="false" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="false" />
@@ -953,9 +905,15 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Grails.Grails:NBTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.EventControllerSpec" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.EventControllerSpec" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -985,17 +943,18 @@
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22059953" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16700749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25198412" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31150794" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1018,6 +977,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="NB" />
+    <option name="LAST_COMMIT_MESSAGE" value="NB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1089,6 +1050,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="395">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1096,13 +1058,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.8249338" vertical-offset="1395" max-vertical-offset="1845">
           <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/event/_form.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6048035" vertical-offset="277" max-vertical-offset="735">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1121,17 +1076,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/nbtest/User.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.521739" vertical-offset="0" max-vertical-offset="300">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/7.0.53/tomcat-embed-core-7.0.53.jar!/org/apache/catalina/core/StandardContext.class">
@@ -1182,34 +1126,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/event/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.893617" vertical-offset="458" max-vertical-offset="990">
-          <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/nbtest/EventController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7646177" vertical-offset="0" max-vertical-offset="2070">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="e#16#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
@@ -1218,11 +1134,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/nbtest/User.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.521739" vertical-offset="0" max-vertical-offset="300">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/nbtest/EventController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32125205" vertical-offset="90" max-vertical-offset="2070">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/event/create.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15463917" vertical-offset="0" max-vertical-offset="750">
+        <state vertical-scroll-proportion="-2.2340426" vertical-offset="0" max-vertical-offset="750">
           <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/event/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.255319" vertical-offset="394" max-vertical-offset="990">
+          <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/nbtest/EventControllerSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0" vertical-offset="68" max-vertical-offset="825">
+          <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+          <folding>
+            <element signature="e#16#45#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1233,7 +1198,7 @@
         <entry key="NBTest">
           <value>
             <GrailsSettings>
-              <option name="buildConfigCrc" value="-275411056" />
+              <option name="buildConfigCrc" value="1130218574" />
               <option name="pluginDependenciesCrc" value="1682136675" />
               <option name="properties">
                 <map>

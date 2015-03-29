@@ -34,7 +34,7 @@ class EventController {
             if (params.otherUser) {
                 event.otherUser = User.findByUserName(params.otherUser)
             }
-            event.save()
+            event.save(failOnError: true)
             if (event.hasErrors()) {
                 respond event.errors, [formats:["json"]]
             } else {
