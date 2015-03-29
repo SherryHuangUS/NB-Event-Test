@@ -1,0 +1,37 @@
+Testsuite: nbtest.EventControllerSpec
+Tests run: 8, Failures: 0, Errors: 0, Time elapsed: 5.273 sec
+------------- Standard Output ---------------
+--Output from Test submitting event with complete params--
+event params -> [date:2014-02-28T13:00:00Z, user:Test1, type:comment, message:This is a test message]
+--Output from Test submitting event with noncomplete params--
+event params -> [user:Test1, type:comment, message:This is a test message]
+--Output from Test submitting event with wrong params--
+event params -> [date:2014-02-28T13:00:00Z, user:Test, type:comment, message:This is a test message]
+--Output from Test getting events with from date and to date--
+[Fri Feb 28 13:00:00 PST 2014, Fri Feb 28 13:01:00 PST 2014, Fri Feb 28 13:02:00 PST 2014, Fri Feb 28 13:03:00 PST 2014, Fri Feb 28 14:00:00 PST 2014, Fri Feb 28 14:01:00 PST 2014, Fri Feb 28 14:01:00 PST 2014, Mon Mar 03 13:00:00 PST 2014, Mon Mar 03 13:01:00 PST 2014, Mon Mar 03 13:02:00 PST 2014, Mon Mar 03 13:03:00 PST 2014, Mon Mar 03 14:00:00 PST 2014, Mon Mar 03 14:01:00 PST 2014, Mon Mar 03 14:01:00 PST 2014]
+[[type:enter, date:Fri Feb 28 13:00:00 PST 2014, user:Test1], [type:enter, date:Fri Feb 28 13:01:00 PST 2014, user:Test2], [message:Hi there!, type:comment, date:Fri Feb 28 13:02:00 PST 2014, user:Test1], [message:Hello!, type:comment, date:Fri Feb 28 13:03:00 PST 2014, user:Test2], [otheruser:Test2, type:highfive, date:Fri Feb 28 14:00:00 PST 2014, user:Test1], [type:leave, date:Fri Feb 28 14:01:00 PST 2014, user:Test1], [type:leave, date:Fri Feb 28 14:01:00 PST 2014, user:Test2]]
+--Output from Test getting events with from date comes after to date--
+--Output from Test getting summary--
+[[highfives:1, enters:2, rolledUpDate:Fri Feb 28 13:00:00 PST 2014, leaves:0, comments:2], [highfives:1, enters:0, rolledUpDate:Fri Feb 28 14:00:00 PST 2014, leaves:2, comments:0]]
+--Output from Test getting summary with from date comes after to date--
+--Output from Test getting summary without time frame--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Test submitting event with complete params--
+--Output from Test submitting event with noncomplete params--
+--Output from Test submitting event with wrong params--
+--Output from Test getting events with from date and to date--
+--Output from Test getting events with from date comes after to date--
+--Output from Test getting summary--
+--Output from Test getting summary with from date comes after to date--
+--Output from Test getting summary without time frame--
+------------- ---------------- ---------------
+
+Testcase: Test submitting event with complete params took 4.504 sec
+Testcase: Test submitting event with noncomplete params took 0.081 sec
+Testcase: Test submitting event with wrong params took 0.114 sec
+Testcase: Test getting events with from date and to date took 0.219 sec
+Testcase: Test getting events with from date comes after to date took 0.079 sec
+Testcase: Test getting summary took 0.115 sec
+Testcase: Test getting summary with from date comes after to date took 0.068 sec
+Testcase: Test getting summary without time frame took 0.066 sec

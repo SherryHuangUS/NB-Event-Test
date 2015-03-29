@@ -1,0 +1,8 @@
+--Output from Test submitting event with complete params--
+--Output from Test submitting event with noncomplete params--
+--Output from Test submitting event with wrong params--
+--Output from Test getting events with from date and to date--
+--Output from Test getting events with from date comes after to date--
+--Output from Test getting summary--
+--Output from Test getting summary with from date comes after to date--
+--Output from Test getting summary without time frame--
