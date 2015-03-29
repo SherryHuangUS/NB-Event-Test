@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="197f6742-c9d2-4829-a1cd-9659bc8d2f84" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/nbtest/EventControllerSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/nbtest/EventSpec.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenShots/Screen Shot 2015-03-28 at 9.08.54 PM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenShots/Screen Shot 2015-03-28 at 9.09.14 PM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenShots/Screen Shot 2015-03-28 at 9.10.12 PM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenShots/Screen Shot 2015-03-28 at 9.10.35 PM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenShots/Screen Shot 2015-03-28 at 9.10.55 PM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenShots/Screen Shot 2015-03-28 at 9.11.26 PM.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/unit/nbtest/UserSpec.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/tomcat-7.0.54/grails-plugin-tomcat-7.0.54.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-reports/html/nbtest/0_EventControllerSpec.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/1e21.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/1e21.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/asset/pipeline/AbstractAssetFile.groovy" />
@@ -198,11 +188,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.7/src/java/grails/plugin/cache/SimpleKeyGenerator.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/Slf4jLogger.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/Spec.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-reports/plain/TEST-unit-unit-nbtest.EventControllerSpec-err.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-reports/plain/TEST-unit-unit-nbtest.EventControllerSpec-out.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-reports/plain/TEST-unit-unit-nbtest.EventControllerSpec.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-reports/TEST-unit-unit-nbtest.EventControllerSpec.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-reports/TESTS-TestSuites.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/TableListWriter.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/src/groovy/grails/plugin/databasemigration/dbdoc/TableWriter.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.7/src/java/grails/plugin/cache/Timer.java" />
@@ -234,8 +219,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/grails-app/views/dbdoc/_index.gsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/grails-app/views/dbdoc/_overview-summary.gsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/grails-app/views/dbdoc/_stylesheet.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-reports/html/all.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/integration/application.properties" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/application.properties" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/cache-1.1.7/application.properties" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/database-migration-1.4.0/application.properties" />
@@ -275,7 +258,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/empty-blocks.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/docs/guide/usage/encoding.gdoc" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/docs/guide/extending.gdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-reports/html/failed.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/forstatement.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/forstatement.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/hibernate4-4.3.5.4/src/java/hibernate.cfg.xml" />
@@ -289,7 +271,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/ifreturn2.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/ifreturn2.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/index.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-reports/html/index.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/infinite.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/infinite.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/tmp/instrument.js" />
@@ -375,13 +356,11 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/docs/guide/extending/processors.gdoc" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/r.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/renderEditor.template" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/spring/resources.groovy" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/scripts.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/scaffolding-2.1.2/src/templates/scaffolding/show.gsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/lib/squeeze-more.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/strict-equals.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/strict-equals.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-reports/html/stylesheet.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/tmp/test.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/testconsolidator.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/testparser.js" />
@@ -395,6 +374,12 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/whitespace.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/expected/with.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/work/plugins/asset-pipeline-1.8.11/src/groovy/uglifyjs/test/unit/compress/test/with.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/screenShots/Screen Shot 2015-03-28 at 9.08.54 PM.png" afterPath="$PROJECT_DIR$/screenShots/index.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/screenShots/Screen Shot 2015-03-28 at 9.09.14 PM.png" afterPath="$PROJECT_DIR$/screenShots/event.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/screenShots/Screen Shot 2015-03-28 at 9.10.12 PM.png" afterPath="$PROJECT_DIR$/screenShots/events.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/screenShots/Screen Shot 2015-03-28 at 9.10.35 PM.png" afterPath="$PROJECT_DIR$/screenShots/summaryByHour.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/screenShots/Screen Shot 2015-03-28 at 9.10.55 PM.png" afterPath="$PROJECT_DIR$/screenShots/summaryByminute.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/screenShots/Screen Shot 2015-03-28 at 9.11.26 PM.png" afterPath="$PROJECT_DIR$/screenShots/summaryByDay.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NBTest.iws" />
@@ -443,8 +428,43 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Screen Shot 2015-03-28 at 9.08.54 PM.png" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/screenShots/Screen Shot 2015-03-28 at 9.08.54 PM.png">
+          <file leaf-file-name="index.png" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/screenShots/index.png">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="event.png" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/screenShots/event.png">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="events.png" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/screenShots/events.png">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="summaryByHour.png" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/screenShots/summaryByHour.png">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="summaryByminute.png" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/screenShots/summaryByminute.png">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="summaryByDay.png" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/screenShots/summaryByDay.png">
               <provider selected="true" editor-type-id="images">
                 <state />
               </provider>
@@ -1209,7 +1229,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/screenShots/Screen Shot 2015-03-28 at 9.08.54 PM.png">
+    <entry file="file://$PROJECT_DIR$/screenShots/index.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenShots/event.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenShots/events.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenShots/summaryByHour.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenShots/summaryByminute.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenShots/summaryByDay.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
