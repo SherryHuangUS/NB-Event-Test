@@ -18,3 +18,10 @@ It will run both unit tests and intergration tests.
 - Startup: grails-app/conf/Bootstrap.groovy
 - Test: test/unit/nbtest/EventControllerSpec.groovy
 
+## Screen Shots
+![Alt text](/screenShots/index.png?raw=true "Optional Title")
+![Alt text](/screenShots/event.png?raw=true "Optional Title")
+![Alt text](/screenShots/events.png?raw=true "Optional Title")
+![Alt text](/screenShots/summaryByminute.png?raw=true "Optional Title")
+![Alt text](/screenShots/summaryByHour.png?raw=true "Optional Title")
+![Alt text](/screenShots/summaryByDay.png?raw=true "Optional Title")
