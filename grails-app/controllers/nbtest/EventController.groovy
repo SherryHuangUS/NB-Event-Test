@@ -1,7 +1,6 @@
 package nbtest
 
 import groovy.time.TimeCategory
-import org.codehaus.groovy.grails.web.json.JSONArray
 import org.codehaus.groovy.grails.web.json.JSONObject
 
 import java.text.ParseException
@@ -46,9 +45,13 @@ class EventController {
         if (checkDateFormat(params.from) && checkDateFormat(params.to)) {
             Date from = sdf.parse(params.from)
             Date to = sdf.parse(params.to)
-            List<Event> events = Event.findAllByDateBetween(from, to)
-            println Event.list().date
-            respond formatEvents(events), [formats:["json"]]
+            if (from.before(to)) {
+                List<Event> events = Event.findAllByDateBetween(from, to)
+                println Event.list().date
+                respond formatEvents(events)//, [formats:["json"]]
+            } else {
+                render (status: 400, text: "Bad Request: Date from should before Date to.")
+            }
         }
     }
 
@@ -63,6 +66,7 @@ class EventController {
             if (it.otherUser) event.otheruser = it.otherUser.userName
             result.add(event)
         }
+        println result
         return result
     }
 
@@ -71,7 +75,11 @@ class EventController {
             Date from = sdf.parse(params.from)
             Date to = sdf.parse(params.to)
             String timeFrame = params.by
-            respond generateSummary(from, to, timeFrame), [formats:["json"]]
+            if (from.before(to)) {
+                respond generateSummary(from, to, timeFrame), [formats:["json"]]
+            } else {
+                render (status: 400, text: "Bad Request: Date from should before Date to.")
+            }
         }
     }
 
@@ -104,6 +112,7 @@ class EventController {
             result.add(summary)
             from = mid
         }
+        println result
         return result
     }
 

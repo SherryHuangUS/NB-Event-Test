@@ -37597,3 +37597,239 @@ grails.validation.ValidationException: Validation Error(s) occurred during save(
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
 	at java.lang.Thread.run(Thread.java:745)
+2015-03-28 20:37:55,420 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.converters.exceptions.ConverterException: Error parsing JSON
+	at grails.converters.JSON.parse(JSON.java:278)
+	at org.codehaus.groovy.grails.plugins.testing.AbstractGrailsMockHttpServletResponse.getJson(AbstractGrailsMockHttpServletResponse.groovy:97)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at nbtest.EventControllerSpec.Test getting events with from date and to date(EventControllerSpec.groovy:97)
+Caused by: org.codehaus.groovy.grails.web.json.JSONException: Missing value. at character 0 of 
+	at org.codehaus.groovy.grails.web.json.JSONTokener.syntaxError(JSONTokener.java:470)
+	at org.codehaus.groovy.grails.web.json.JSONTokener.nextValue(JSONTokener.java:357)
+	at grails.converters.JSON.parse(JSON.java:269)
+	... 3 more
+2015-03-28 20:37:55,422 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.json.JSONException: Missing value. at character 0 of 
+	at org.codehaus.groovy.grails.web.json.JSONTokener.syntaxError(JSONTokener.java:470)
+	at org.codehaus.groovy.grails.web.json.JSONTokener.nextValue(JSONTokener.java:357)
+	at grails.converters.JSON.parse(JSON.java:269)
+	at org.codehaus.groovy.grails.plugins.testing.AbstractGrailsMockHttpServletResponse.getJson(AbstractGrailsMockHttpServletResponse.groovy:97)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at nbtest.EventControllerSpec.Test getting events with from date and to date(EventControllerSpec.groovy:97)
+2015-03-28 20:37:55,422 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.converters.exceptions.ConverterException: Error parsing JSON
+	at grails.converters.JSON.parse(JSON.java:278)
+	at nbtest.EventControllerSpec.Test getting events with from date and to date(EventControllerSpec.groovy:97)
+Caused by: org.codehaus.groovy.grails.web.json.JSONException: Missing value. at character 0 of 
+	at grails.converters.JSON.parse(JSON.java:269)
+	... 1 more
+2015-03-28 20:37:55,423 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.converters.exceptions.ConverterException: Error parsing JSON
+	at grails.converters.JSON.parse(JSON.java:278)
+	at nbtest.EventControllerSpec.Test getting events with from date and to date(EventControllerSpec.groovy:97)
+Caused by: org.codehaus.groovy.grails.web.json.JSONException: Missing value. at character 0 of 
+	at grails.converters.JSON.parse(JSON.java:269)
+	... 1 more
+2015-03-28 20:37:55,423 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.json.JSONException: Missing value. at character 0 of 
+	at grails.converters.JSON.parse(JSON.java:269)
+	at nbtest.EventControllerSpec.Test getting events with from date and to date(EventControllerSpec.groovy:97)
+2015-03-28 20:37:55,423 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.converters.exceptions.ConverterException: Error parsing JSON
+	at grails.converters.JSON.parse(JSON.java:278)
+	at nbtest.EventControllerSpec.Test getting events with from date and to date(EventControllerSpec.groovy:97)
+Caused by: org.codehaus.groovy.grails.web.json.JSONException: Missing value. at character 0 of 
+	at grails.converters.JSON.parse(JSON.java:269)
+	... 1 more
+2015-03-28 20:37:55,427 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.converters.exceptions.ConverterException: Error parsing JSON
+	at grails.converters.JSON.parse(JSON.java:278)
+	at nbtest.EventControllerSpec.Test getting events with from date and to date(EventControllerSpec.groovy:97)
+Caused by: org.codehaus.groovy.grails.web.json.JSONException: Missing value. at character 0 of 
+	at grails.converters.JSON.parse(JSON.java:269)
+	... 1 more
+2015-03-28 20:37:55,427 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.json.JSONException: Missing value. at character 0 of 
+	at grails.converters.JSON.parse(JSON.java:269)
+	at nbtest.EventControllerSpec.Test getting events with from date and to date(EventControllerSpec.groovy:97)
+2015-03-28 20:37:55,427 [main] ERROR StackTrace  - Full Stack Trace:
+org.codehaus.groovy.grails.web.converters.exceptions.ConverterException: Error parsing JSON
+	at grails.converters.JSON.parse(JSON.java:278)
+	at nbtest.EventControllerSpec.Test getting events with from date and to date(EventControllerSpec.groovy:97)
+Caused by: org.codehaus.groovy.grails.web.json.JSONException: Missing value. at character 0 of 
+	at grails.converters.JSON.parse(JSON.java:269)
+	... 1 more
+2015-03-28 20:37:55,555 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+response.status == 400
+|        |      |
+|        200    false
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@5d71343b
+
+	at nbtest.EventControllerSpec.Test getting summary with from date comes after to date(EventControllerSpec.groovy:123)
+2015-03-28 20:37:55,556 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+response.status == 400
+|        |      |
+|        200    false
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@5d71343b
+
+	at nbtest.EventControllerSpec.Test getting summary with from date comes after to date(EventControllerSpec.groovy:123)
+2015-03-28 20:37:55,556 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.status == 400
+|        |      |
+|        200    false
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@5d71343b
+
+	at nbtest.EventControllerSpec.Test getting summary with from date comes after to date(EventControllerSpec.groovy:123)
+2015-03-28 20:37:55,557 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.status == 400
+|        |      |
+|        200    false
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@5d71343b
+
+	at nbtest.EventControllerSpec.Test getting summary with from date comes after to date(EventControllerSpec.groovy:123)
+2015-03-28 20:37:55,557 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.status == 400
+|        |      |
+|        200    false
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@5d71343b
+
+	at nbtest.EventControllerSpec.Test getting summary with from date comes after to date(EventControllerSpec.groovy:123)
+2015-03-28 20:37:55,557 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.status == 400
+|        |      |
+|        200    false
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@5d71343b
+
+	at nbtest.EventControllerSpec.Test getting summary with from date comes after to date(EventControllerSpec.groovy:123)
+2015-03-28 20:47:08,145 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+response.json == 7
+|        |    |
+|        |    false
+|        [[date:2014-02-28T21:00:00Z, type:enter, user:Test1], [date:2014-02-28T21:01:00Z, type:enter, user:Test2], [message:Hi there!, date:2014-02-28T21:02:00Z, type:comment, user:Test1], [message:Hello!, date:2014-02-28T21:03:00Z, type:comment, user:Test2], [otheruser:Test2, date:2014-02-28T22:00:00Z, type:highfive, user:Test1], [date:2014-02-28T22:01:00Z, type:leave, user:Test1], [date:2014-02-28T22:01:00Z, type:leave, user:Test2]]
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@7f6880ba
+
+	at nbtest.EventControllerSpec.Test getting events with from date and to date(EventControllerSpec.groovy:98)
+2015-03-28 20:47:08,149 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+response.json == 7
+|        |    |
+|        |    false
+|        [[date:2014-02-28T21:00:00Z, type:enter, user:Test1], [date:2014-02-28T21:01:00Z, type:enter, user:Test2], [message:Hi there!, date:2014-02-28T21:02:00Z, type:comment, user:Test1], [message:Hello!, date:2014-02-28T21:03:00Z, type:comment, user:Test2], [otheruser:Test2, date:2014-02-28T22:00:00Z, type:highfive, user:Test1], [date:2014-02-28T22:01:00Z, type:leave, user:Test1], [date:2014-02-28T22:01:00Z, type:leave, user:Test2]]
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@7f6880ba
+
+	at nbtest.EventControllerSpec.Test getting events with from date and to date(EventControllerSpec.groovy:98)
+2015-03-28 20:47:08,150 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.json == 7
+|        |    |
+|        |    false
+|        [[date:2014-02-28T21:00:00Z, type:enter, user:Test1], [date:2014-02-28T21:01:00Z, type:enter, user:Test2], [message:Hi there!, date:2014-02-28T21:02:00Z, type:comment, user:Test1], [message:Hello!, date:2014-02-28T21:03:00Z, type:comment, user:Test2], [otheruser:Test2, date:2014-02-28T22:00:00Z, type:highfive, user:Test1], [date:2014-02-28T22:01:00Z, type:leave, user:Test1], [date:2014-02-28T22:01:00Z, type:leave, user:Test2]]
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@7f6880ba
+
+	at nbtest.EventControllerSpec.Test getting events with from date and to date(EventControllerSpec.groovy:98)
+2015-03-28 20:47:08,150 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.json == 7
+|        |    |
+|        |    false
+|        [[date:2014-02-28T21:00:00Z, type:enter, user:Test1], [date:2014-02-28T21:01:00Z, type:enter, user:Test2], [message:Hi there!, date:2014-02-28T21:02:00Z, type:comment, user:Test1], [message:Hello!, date:2014-02-28T21:03:00Z, type:comment, user:Test2], [otheruser:Test2, date:2014-02-28T22:00:00Z, type:highfive, user:Test1], [date:2014-02-28T22:01:00Z, type:leave, user:Test1], [date:2014-02-28T22:01:00Z, type:leave, user:Test2]]
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@7f6880ba
+
+	at nbtest.EventControllerSpec.Test getting events with from date and to date(EventControllerSpec.groovy:98)
+2015-03-28 20:47:08,153 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.json == 7
+|        |    |
+|        |    false
+|        [[date:2014-02-28T21:00:00Z, type:enter, user:Test1], [date:2014-02-28T21:01:00Z, type:enter, user:Test2], [message:Hi there!, date:2014-02-28T21:02:00Z, type:comment, user:Test1], [message:Hello!, date:2014-02-28T21:03:00Z, type:comment, user:Test2], [otheruser:Test2, date:2014-02-28T22:00:00Z, type:highfive, user:Test1], [date:2014-02-28T22:01:00Z, type:leave, user:Test1], [date:2014-02-28T22:01:00Z, type:leave, user:Test2]]
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@7f6880ba
+
+	at nbtest.EventControllerSpec.Test getting events with from date and to date(EventControllerSpec.groovy:98)
+2015-03-28 20:47:08,154 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.json == 7
+|        |    |
+|        |    false
+|        [[date:2014-02-28T21:00:00Z, type:enter, user:Test1], [date:2014-02-28T21:01:00Z, type:enter, user:Test2], [message:Hi there!, date:2014-02-28T21:02:00Z, type:comment, user:Test1], [message:Hello!, date:2014-02-28T21:03:00Z, type:comment, user:Test2], [otheruser:Test2, date:2014-02-28T22:00:00Z, type:highfive, user:Test1], [date:2014-02-28T22:01:00Z, type:leave, user:Test1], [date:2014-02-28T22:01:00Z, type:leave, user:Test2]]
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@7f6880ba
+
+	at nbtest.EventControllerSpec.Test getting events with from date and to date(EventControllerSpec.groovy:98)
+2015-03-28 20:47:08,382 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+response.json.size() == 0
+|        |    |      |
+|        |    2      false
+|        [[rolledUpDate:2014-02-28T21:00:00Z, enters:2, highfives:1, leaves:0, comments:2], [rolledUpDate:2014-02-28T22:00:00Z, enters:0, highfives:1, leaves:2, comments:0]]
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@37857368
+
+	at nbtest.EventControllerSpec.Test getting summary(EventControllerSpec.groovy:125)
+2015-03-28 20:47:08,382 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+response.json.size() == 0
+|        |    |      |
+|        |    2      false
+|        [[rolledUpDate:2014-02-28T21:00:00Z, enters:2, highfives:1, leaves:0, comments:2], [rolledUpDate:2014-02-28T22:00:00Z, enters:0, highfives:1, leaves:2, comments:0]]
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@37857368
+
+	at nbtest.EventControllerSpec.Test getting summary(EventControllerSpec.groovy:125)
+2015-03-28 20:47:08,383 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.json.size() == 0
+|        |    |      |
+|        |    2      false
+|        [[rolledUpDate:2014-02-28T21:00:00Z, enters:2, highfives:1, leaves:0, comments:2], [rolledUpDate:2014-02-28T22:00:00Z, enters:0, highfives:1, leaves:2, comments:0]]
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@37857368
+
+	at nbtest.EventControllerSpec.Test getting summary(EventControllerSpec.groovy:125)
+2015-03-28 20:47:08,383 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.json.size() == 0
+|        |    |      |
+|        |    2      false
+|        [[rolledUpDate:2014-02-28T21:00:00Z, enters:2, highfives:1, leaves:0, comments:2], [rolledUpDate:2014-02-28T22:00:00Z, enters:0, highfives:1, leaves:2, comments:0]]
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@37857368
+
+	at nbtest.EventControllerSpec.Test getting summary(EventControllerSpec.groovy:125)
+2015-03-28 20:47:08,383 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.json.size() == 0
+|        |    |      |
+|        |    2      false
+|        [[rolledUpDate:2014-02-28T21:00:00Z, enters:2, highfives:1, leaves:0, comments:2], [rolledUpDate:2014-02-28T22:00:00Z, enters:0, highfives:1, leaves:2, comments:0]]
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@37857368
+
+	at nbtest.EventControllerSpec.Test getting summary(EventControllerSpec.groovy:125)
+2015-03-28 20:47:08,383 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+response.json.size() == 0
+|        |    |      |
+|        |    2      false
+|        [[rolledUpDate:2014-02-28T21:00:00Z, enters:2, highfives:1, leaves:0, comments:2], [rolledUpDate:2014-02-28T22:00:00Z, enters:0, highfives:1, leaves:2, comments:0]]
+org.codehaus.groovy.grails.plugins.testing.GrailsMockHttpServletResponse@37857368
+
+	at nbtest.EventControllerSpec.Test getting summary(EventControllerSpec.groovy:125)
