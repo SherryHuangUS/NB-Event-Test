@@ -48,7 +48,7 @@ class EventController {
             if (from.before(to)) {
                 List<Event> events = Event.findAllByDateBetween(from, to)
                 println Event.list().date
-                respond formatEvents(events)//, [formats:["json"]]
+                respond formatEvents(events), [formats:["json"]]
             } else {
                 render (status: 400, text: "Bad Request: Date from should before Date to.")
             }
